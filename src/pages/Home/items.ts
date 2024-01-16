@@ -1,0 +1,86 @@
+export const months = [
+  {
+    id: 1,
+    value: 2300,
+    type: 'out',
+    mounth: 'Expense',
+  },
+  {
+    id: 2,
+    value: 1800,
+    type: 'in',
+    mounth: 'Income',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+  {
+    id: 3,
+    value: 1800,
+    type: 'out',
+    mounth: 'Amount',
+  },
+]
